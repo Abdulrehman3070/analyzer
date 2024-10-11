@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Routine Analyzer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Daily Routine Analyzer</h1>
+
+  <form id="routine-form">
+    <div>
+      <label>Sleep: </label>
+      <input type="time" id="sleep-start" required> to 
+      <input type="time" id="sleep-end" required>
+    </div>
+
+    <div>
+        <label>Fajor: </label>
+        <input type="time" id="start" required> to 
+        <input type="time" id="end" required>
+    </div>
+
+    <div>
+      <label>Study: </label>
+      <input type="time" id="work-start" required> to 
+      <input type="time" id="work-end" required>
+    </div>
+    <div>
+        <label>Study: </label>
+        <input type="time" id="work-start" required> to 
+        <input type="time" id="work-end" required>
+      </div>
+    <div>
+      <label>Skill Learning: </label>
+      <input type="time" id="skill-start" required> to 
+      <input type="time" id="skill-end" required>
+    </div>
+
+    <div>
+        <label>Zuhr: </label>
+        <input type="time" id="start" required> to 
+        <input type="time" id="end" required>
+    </div>
+    <div>
+        <label>Skill Learning_2: </label>
+        <input type="time" id="skill-start" required> to 
+        <input type="time" id="skill-end" required>
+      </div>
+    <div>
+      <label>Coaching: </label>
+      <input type="time" id="coaching-start" required> to 
+      <input type="time" id="coaching-end" required>
+    </div>
+
+    <div>
+      <label>Gym: </label>
+      <input type="time" id="gym-start" required> to 
+      <input type="time" id="gym-end" required>
+    </div>
+    
+    <div>
+        <label>Book reading: </label>
+        <input type="time" id="Read-start" required> to 
+        <input type="time" id="read-end" required>
+      </div>
+    <button type="button" onclick="analyzeRoutine()">Analyze</button>
+  </form>
+
+  <div id="results"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

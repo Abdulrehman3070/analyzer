@@ -5,6 +5,13 @@ Pakistan’s system faces deep-rooted issues like **military influence over civi
 
 ---
 
+### 0. **Self-Preparation and Education**  
+- **Study history:** Understand how revolutionary leaders (like Jinnah, Mandela, or Atatürk) brought change despite resistance.  
+- **Master political science and economics:** Knowledge of governance systems, economics, and geopolitics will strengthen your vision.  
+- **Develop personal discipline and character:** Your actions should reflect integrity, honesty, and commitment—qualities people admire in a leader.
+
+---
+
 ## **1. Lessons from Pakistan’s History**
 
 1. **Military Influence in Governance:**  
